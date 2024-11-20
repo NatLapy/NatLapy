@@ -1,7 +1,6 @@
 ### Hi there
 ### I am a student in Computer science
-### currently learning Java, Html, Js and MySQL.
-### ⚡ Fun fact: i'm ✨ special ✨
+### currently learning Java, Laravel, C# and MySQL.
 
 <!--
 **NatLapy/NatLapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
