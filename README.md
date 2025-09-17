@@ -1,9 +1,9 @@
-### Hi there!
+# Hi there! I'm Nathan.
 
-I'm a computer science student in Quebec, Canada.
-I'm currently focused on **game development**(with Unity, Unreal Engine and Godot Engine), **full-stack web development**.
+I'm a computer science student from Quebec, Canada.
+<br> I'm currently focused on **game development**(with Unity, Unreal Engine and Godot Engine), **full-stack web development**.
 
----
+#
 
 ### What I'm Learning
 
@@ -12,20 +12,22 @@ I'm currently focused on **game development**(with Unity, Unreal Engine and Godo
 * **Databases:** MySQL
 * **Others:** WordPress(Native & WPBakery Site Builder)
 
----
+#
 
 ### Find Me Online
 
 * [[LinkedIn](https://www.linkedin.com/in/nathan-laperri%C3%A8re/)]
 
-**/////////////// FRANÇAIS //////////////////**
+---
+# **FRANÇAIS**
 
-### Bonjour!
+
+# Salut! Je m'appelle Nathan.
 
 Je suis étudiant en **informatique** du Québec, Canada.
-Je me concentre actuellement sur le **développement de jeux vidéo** (avec Unity, Unreal Engine et Godot Engine) et le **développement web full-stack**.
+<br> Je me concentre actuellement sur le **développement de jeux vidéo** (avec Unity, Unreal Engine et Godot Engine) et le **développement web full-stack**.
 
----
+#
 
 ### Mes Compétences et Technologies
 
@@ -34,7 +36,7 @@ Je me concentre actuellement sur le **développement de jeux vidéo** (avec Unit
 * **Bases de données:** MySQL
 * **Autres:** WordPress (natif et avec l'outil de construction de site WPBakery)
 
----
+#
 
 ### Me Trouver en Ligne
 
