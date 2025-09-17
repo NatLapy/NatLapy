@@ -19,8 +19,8 @@ I'm a computer science student from Quebec, Canada.
 * [[LinkedIn](https://www.linkedin.com/in/nathan-laperri%C3%A8re/)]
 
 ---
-# **FRANÇAIS**
-
+### **FRANÇAIS**
+---
 
 # Salut! Je m'appelle Nathan.
 
