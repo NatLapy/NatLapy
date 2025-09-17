@@ -1,6 +1,8 @@
 ### Hi there!
 
-I'm a computer science student in Quebec, Canada, currently focused on **game development*(with Unity, Unreal Engine and Godot Engine), **full-stack web development**.
+I'm a computer science student in Quebec, Canada.
+I'm currently focused on **game development**(with Unity, Unreal Engine and Godot Engine), **full-stack web development**.
+
 ---
 
 ### What I'm Learning
@@ -8,13 +10,36 @@ I'm a computer science student in Quebec, Canada, currently focused on **game de
 * **Front-end:** HTML, CSS, JavaScript, React, Less.js
 * **Back-end:** C#, PHP/Laravel
 * **Databases:** MySQL
-* **Others:** WordPress(both native and with the WPBakery site builder)
+* **Others:** WordPress(Native & WPBakery Site Builder)
 
 ---
 
-### Connect with Me
+### Find Me Online
 
-* [[Your LinkedIn Profile Link](https://www.linkedin.com/in/nathan-laperri%C3%A8re/)]
+* [[LinkedIn](https://www.linkedin.com/in/nathan-laperri%C3%A8re/)]
+
+**/////////////// FRANÇAIS //////////////////**
+
+### Bonjour!
+
+Je suis étudiant en **informatique** du Québec, Canada.
+Je me concentre actuellement sur le **développement de jeux vidéo** (avec Unity, Unreal Engine et Godot Engine) et le **développement web full-stack**.
+
+---
+
+### Mes Compétences et Technologies
+
+* **Front-end:** HTML, CSS, JavaScript, React, Less.js
+* **Back-end:** C#, PHP/Laravel
+* **Bases de données:** MySQL
+* **Autres:** WordPress (natif et avec l'outil de construction de site WPBakery)
+
+---
+
+### Me Trouver en Ligne
+
+* [[LinkedIn](https://www.linkedin.com/in/nathan-laperri%C3%A8re/)]
+
 <!--
 **NatLapy/NatLapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
